@@ -1,0 +1,23 @@
+{
+    "career":{
+           "info":"to become hr"
+    },
+    "education":[
+      {
+        "degree":"ssc",
+        "school":"bhashyam",
+        "data":["2013","90"]
+      },
+      {
+        "degree":"inter",
+        "clg":"sc",
+        "data":["2013","90"]
+      },
+      {
+        "degree":"btech",
+        "clg":"svec",
+        "data":["2019","90"]
+      }
+    ]
+
+}
